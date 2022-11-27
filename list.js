@@ -70,5 +70,11 @@ let allMusic = [
         artist : "이홍기, 유회승",
         img : "img-12",
         audio : "m-12"
+    },
+    {
+        name: "새벽에 걸려온 너의 전화는",
+        artist : "한동근",
+        img : "img-13",
+        audio : "m-13"
     }
 ]
